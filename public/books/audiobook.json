@@ -225,5 +225,210 @@
       "Ця книга – плід двох десятиліть досліджень та клінічної роботи з жертвами сексуального насильства і насильства в сім’ї, а також з ветеранами бойових дій та жертвами політичного терору. В ній ідеться про відновлення зв’язків: між публічним та приватним просторами, між індивідом та громадою, між чоловіками та жінками. Книга стане незамінною для психологів, психотерапевтів, лікарів і тих, хто, зазнавши насильства, шукає шлях до видужання.",
       "Видання здійснено за підтримки Відділу преси, освіти і культури Посольства США в Україні."
     ]
+  },
+  {
+    "id": "c6906636-3451-4ed8-8692-bc5fafa93e92",
+    "type": "audiobook",
+    "namespaceId": "group-psychology-and-the-analysis-of-the-ego",
+    "name": "Group Psychology and the Analysis of the Ego",
+    "slug": "group-psychology-and-the-analysis-of-the-ego-en-audiobook",
+    "priceRegular": 9.95,
+    "priceDiscount": 8.71,
+    "images": [
+      "img/audiobook/group-psychology-and-the-analysis-of-the-ego/en/00.webp"
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Sigmund Freud",
+    "narrator": "Joe Gomez",
+    "publicationYear": 2019,
+    "publication": "MuseumAudiobooks.com",
+    "listeningLength": 8760000,
+    "description": [
+      "In this monograph, Freud describes the psychological mechanisms at work within mass movements. According to Freud, the individual in a mass movement acquires a sense of infinite power to act on impulses that would otherwise have been restrained in the individual.",
+      "This is accompanied by a loss of conscious personality so that the mass is controlled almost exclusively by the unconscious."
+    ]
+  },
+  {
+    "id": "230a9b9e-154a-46cb-9b40-2928fd79839d",
+    "type": "audiobook",
+    "namespaceId": "group-psychology-and-the-analysis-of-the-ego",
+    "name": "Психологія спільнот і аналіз людського Я",
+    "slug": "group-psychology-and-the-analysis-of-the-ego-uk-audiobook",
+    "priceRegular": 0.89,
+    "priceDiscount": null,
+    "images": [
+      "img/audiobook/group-psychology-and-the-analysis-of-the-ego/uk/00.webp"
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Зигмунд Фройд",
+    "narrator": "Олександр Коваль",
+    "publicationYear": 2023,
+    "publication": "Мультимедійне видавництво Стрельбицького",
+    "listeningLength": 12243000,
+    "description": [
+      "«Психологія спільнот» і аналіз людського «Я» — одна з найвідоміших праць Зігмунда Фройда — вважається також одним з найпарадоксальніших його творів. Адже тут «батько психоаналізу» виступає не як психоаналітик, а швидше як класичний психолог, який досліджує не лише особистісні, а й соціальні аспекти розвитку внутрішнього світу людини й прихованих, глибинних мотивів формування його світовідчуття. \nПереклад Ярослава Мишанича."
+    ]
+  },
+  {
+    "id": "36b55c0f-3ca0-40a9-9ec3-db1ac13a0024",
+    "type": "audiobook",
+    "namespaceId": "the-voice-in-our-head-why-it-matters-and-how-to-harness-it",
+    "name": "The Voice in Our Head, Why It Matters, and How to Harness It",
+    "slug": "the-voice-in-our-head-why-it-matters-and-how-to-harness-it-en-audiobook",
+    "priceRegular": 15.75,
+    "priceDiscount": 13.78,
+    "images": [
+      "img/audiobook/the-voice-in-our-head-why-it-matters-and-how-to-harness-it/en/00.webp"
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Ethan Kross",
+    "narrator": "Ethan Kross",
+    "publicationYear": 2021,
+    "publication": "Random House Audio",
+    "listeningLength": 30600000,
+    "description": [
+      "Tell a stranger that you talk to yourself, and you’re likely to get written off as eccentric. But the truth is that we all have a voice in our head. When we talk to ourselves, we often hope to tap into our inner coach but find our inner critic instead. When we’re facing a tough task, our inner coach can buoy us up: Focus - you can do this. But, just as often, our inner critic sinks us entirely: I’m going to fail. They’ll all laugh at me. What’s the use?",
+      "In Chatter, acclaimed psychologist Ethan Kross explores the silent conversations we have with ourselves. Interweaving groundbreaking behavioral and brain research from his own lab with real-world case studies - from a pitcher who forgets how to pitch, to a Harvard undergrad negotiating her double life as a spy - Kross explains how these conversations shape our lives, work, and relationships. He warns that giving in to negative and disorienting self-talk - what he calls “chatter” - can tank our health, sink our moods, strain our social connections, and cause us to fold under pressure.",
+      "But the good news is that we’re already equipped with the tools we need to make our inner voice work in our favor. These tools are often hidden in plain sight - in the words we use to think about ourselves, the technologies we embrace, the diaries we keep in our drawers, the conversations we have with our loved ones, and the cultures we create in our schools and workplaces.",
+      "Brilliantly argued, expertly researched, and filled with compelling stories, Chatter gives us the power to change the most important conversation we have each day: the one we have with ourselves."
+    ]
+  },
+  {
+    "id": "18e8957e-b126-4824-9055-c40374b178e4",
+    "type": "audiobook",
+    "namespaceId": "the-voice-in-our-head-why-it-matters-and-how-to-harness-it",
+    "name": "Внутрішній голос. Як навчитися слухати себе",
+    "slug": "the-voice-in-our-head-why-it-matters-and-how-to-harness-it-uk-audiobook",
+    "priceRegular": 5.49,
+    "priceDiscount": null,
+    "images": [
+      "img/audiobook/the-voice-in-our-head-why-it-matters-and-how-to-harness-it/uk/00.webp"
+    ],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Ітан Крос",
+    "narrator": "Юрій Вихованець",
+    "publicationYear": 2024,
+    "publication": "Megogo, Лабораторія",
+    "listeningLength": 22920000,
+    "description": [
+      "В давнину люди вважали свій внутрішній голос відголосом диявола. З ним боролись та намагались притлумити. Водночас хтось вважав його джерелом мудрості і намагався прислуховувався до нього.",
+      "Сьогодні, як і тисячі років тому, внутрішній голос — це невіддільна частина нашої свідомості. Однак ми настільки звикли до постійного діалогу із самими собою, що часто навіть не помічаємо його згубного впливу на наше ментальне здоров’я та самосвідомість.",
+      "Самокопання та самоприниження спричиняє невпевненість в собі, а нав’язливий голос в голові може навіть свідчити про певні психічні розлади.",
+      "І хоча нам здається, що керувати балаканиною в голові неможливо, автор цієї книжки таки доводить — її таки можна використати на свою користь."
+    ]
+  },
+  {
+    "id": "1ded18a2-6c98-4f0e-90ac-bd3d047b6dc1",
+    "type": "audiobook",
+    "namespaceId": "the-power-of-regret",
+    "name": "Сила жалю. Як погляд назад рухає нас уперед",
+    "slug": "the-power-of-regret-uk-audiobook",
+    "priceRegular": 5.99,
+    "priceDiscount": null,
+    "images": ["img/audiobook/the-power-of-regret/uk/00.webp"],
+    "langAvailable": ["uk"],
+    "lang": "uk",
+    "author": "Інна Бодак",
+    "narrator": "Матвій Николаєв",
+    "publicationYear": 2024,
+    "publication": "Megogo, Лабораторія",
+    "listeningLength": 23820000,
+    "description": [
+      "Усі ми про щось шкодуємо. Але це не погано чи добре. Це абсолютно нормальна частина людського буття. Та розуміння того, як працює жаль, може допомогти нам приймати кращі рішення, наповнитися енергією і додати своєму життю глибокого сенсу.",
+      "Опираючись на дослідження в галузі соціальної психології, неврології та біології, Деніел Пінк доводить, що неможливо ні про що не шкодувати. У книжці він використовує найбільшу статистичну вибірку ставлення американців до жалю, яку коли-небудь проводили, а також власне Всесвітнє дослідження жалю, у якому взяло участь 15 000 людей у 105 країнах.",
+      "Наповнена справжніми історіями людей, структурована і доступно написана, книжка «Сила жалю» змусить вас подивитися на жаль як на щось, що не просто додає нам людяності, але й робить кращими. Та найголовніше — показує, як оглядаючись назад, ми можемо рухатися вперед."
+    ]
+  },
+  {
+    "id": "122c5ea4-41d7-439b-adee-ddd4e2e5fadc",
+    "type": "audiobook",
+    "namespaceId": "emotional-inheritance",
+    "name": "Emotional Inheritance",
+    "slug": "emotional-inheritance-en-audiobook",
+    "priceRegular": 21.83,
+    "priceDiscount": 19.1,
+    "images": ["img/audiobook/emotional-inheritance/en/00.webp"],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Galit Atlas",
+    "narrator": "Galit Atlas",
+    "publicationYear": 2022,
+    "publication": "Little, Brown & Company",
+    "listeningLength": 24380000,
+    "description": [
+      "The people we love and those who raised us live inside us; we experience their emotional pain, we dream their memories, and these things shape our lives in ways we don’t always recognize. Emotional Inheritance is about family secrets that keep us from living to our full potential, create gaps between what we want for ourselves and what we are able to have, and haunt us like ghosts.",
+      "In this transformative book, Galit Atlas entwines the stories of her patients, her own stories, and decades of research to help us identify the links between our life struggles and the “emotional inheritance” we all carry. For it is only by following the traces those ghosts leave that we can truly change our destiny."
+    ]
+  },
+  {
+    "id": "3c86468f-b847-42b1-87f3-cc2b240ae324",
+    "type": "audiobook",
+    "namespaceId": "emotional-inheritance",
+    "name": "Емоційний спадок. Як подолати травматичний досвід",
+    "slug": "emotional-inheritance-uk-audiobook",
+    "priceRegular": 5.39,
+    "priceDiscount": null,
+    "images": ["img/audiobook/emotional-inheritance/uk/00.webp"],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Галіт Атлас",
+    "narrator": "Віра Прокоп‘як",
+    "publicationYear": 2024,
+    "publication": "Megogo",
+    "listeningLength": 24420000,
+    "description": [
+      "Ми здобуваємо у спадок від своїх батьків не тільки біологічні гени, а й травми поколінь. Разом із сімейними таємницями й дитячими спогадами вони міцно вплітаються у наше життя і непомітно формують характери, вчинки й поведінку. То як жити, коли травми поколінь переслідують, мов примари? Як відпустити минуле і розпочати власний шлях?",
+      "Психотерапевтка Ґаліт Атлас поєднала власний досвід, історії своїх пацієнтів і основи психоаналізу, щоб продемонструвати, як наші сьогоднішні страхи й проблеми пов'язані з емоційним спадком батьків, бабусь і дідусів. Написана доступно і з глибоким співчуттям, ця книжка проникає у найпотаємніші закутки людської психології і допомагає віднайти шлях до зцілення.",
+      "«Емоційний спадок» надихає відкинути усі упередження та хвилювання й зануритися у власну сімейну історію. Адже тільки проживши наше минуле й залишивши старі травми позаду, ми зможемо впевнено і легко рухатися до майбутнього."
+    ]
+  },
+  {
+    "id": "edd67ce0-c5c0-4043-bb67-01141c271eb5",
+    "type": "audiobook",
+    "namespaceId": "the-unexpected-joy-of-being-single",
+    "name": "The Unexpected Joy of Being Single: Locating Happily-Single Serenity",
+    "slug": "the-unexpected-joy-of-being-single-en-audiobook",
+    "priceRegular": 24.19,
+    "priceDiscount": 21.17,
+    "images": ["img/the-unexpected-joy-of-being-single/en/00.webp"],
+    "langAvailable": ["en", "uk"],
+    "lang": "en",
+    "author": "Catherine Gray",
+    "narrator": "Catherine Gray",
+    "publicationYear": 2018,
+    "publication": "Aster",
+    "listeningLength": 37740000,
+    "description": [
+      "Over half of Brits aged 25-44 are now single. It's become the norm to remain solo until much later in life, given the average marriage ages of 35 (women) and 38 (men). Many of us are choosing never to marry at all.",
+      "But society, films, song lyrics and our parents are adamant that a happy ending has to be couple-shaped. That we're incomplete without an 'other half'*, like a bisected panto pony. Cue: single sorrow. Dating like it's a job. Spending half our lives waiting for somebody-we-fancy to text us back. Feeling haunted by the terms 'spinster' or 'confirmed bachelor'.",
+      "Catherine Gray took a whole year off dating to find single satisfaction. She lifted the lid on the reasons behind the global single revolution, explored the bizarre ways cultures single-shame, detached from 'all the good ones are gone!' panic and debunked the myth that married people are much happier.",
+      "Let's start the reverse brainwash, in order to locate - and luxuriate in - single happiness. Are you in?"
+    ]
+  },
+  {
+    "id": "036b9c3d-a537-45bc-9b4a-23d653ba9d90",
+    "type": "audiobook",
+    "namespaceId": "the-unexpected-joy-of-being-single",
+    "name": "Неочікувана радість самотності",
+    "slug": "the-unexpected-joy-of-being-single-uk-audiobook",
+    "priceRegular": 3.49,
+    "priceDiscount": null,
+    "images": ["img/audiobook/the-unexpected-joy-of-being-single/uk/00.webp"],
+    "langAvailable": ["en", "uk"],
+    "lang": "uk",
+    "author": "Кетрін Ґрей",
+    "narrator": "Запис здійснено в Студії \"Так Треба Продакшн\"",
+    "publicationYear": 2020,
+    "publication": "Yakaboo Publishing",
+    "listeningLength": 37200000,
+    "description": [
+      "Ми живемо в культурі, яка цінує переважно повноцінні парні стосунки, а самотніх таврує білими воронами, винятками, «не-як-усі-люди», нездатними знайти когось, хто б їх покохав. Утім, якщо бути без пари так жахливо, то чому понад половина нас вважають за ліпше залишатися самотніми?",
+      "Багато книжок із словом «самотній» у заголовку зосереджуються на одному: як покінчити із самотнім статусом і знайти партнера. Ця книжка не входить до «компанії» таких видань. Вона не є спробою розбити щасливі пари, чи назвати шлюб дешевою фікцією, чи стверджувати, що бути самотнім ліпше. Ця книжка про те, як прийняти самотність, знайти радість у ній та абстрагуватися від тиску громадської думки, яка вимагає парних стосунків.",
+      "Цю аудіокнигу озвучено із залученням коштів Гранту інституційної підтримки наданих \"Українським інститутом книги\"."
+    ]
   }
 ]
